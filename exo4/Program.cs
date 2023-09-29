@@ -20,7 +20,7 @@ public class Program
     {
         StringBuilder result = new StringBuilder();
 
-        foreach (char letter in name.ToLower()) // Convertir la lettre en minuscules pour une correspondance insensible à la casse
+        foreach (char letter in name.ToLower()) 
         {
             int index = alphabet.IndexOf(letter);
             if (index >= 0)
