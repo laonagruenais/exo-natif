@@ -1,0 +1,14 @@
+/Users/laona/Desktop/mydigitalschool/M2/exo-natif/exo4/bin/Debug/net7.0/exo4
+/Users/laona/Desktop/mydigitalschool/M2/exo-natif/exo4/bin/Debug/net7.0/exo4.deps.json
+/Users/laona/Desktop/mydigitalschool/M2/exo-natif/exo4/bin/Debug/net7.0/exo4.runtimeconfig.json
+/Users/laona/Desktop/mydigitalschool/M2/exo-natif/exo4/bin/Debug/net7.0/exo4.dll
+/Users/laona/Desktop/mydigitalschool/M2/exo-natif/exo4/bin/Debug/net7.0/exo4.pdb
+/Users/laona/Desktop/mydigitalschool/M2/exo-natif/exo4/obj/Debug/net7.0/exo4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laona/Desktop/mydigitalschool/M2/exo-natif/exo4/obj/Debug/net7.0/exo4.AssemblyInfoInputs.cache
+/Users/laona/Desktop/mydigitalschool/M2/exo-natif/exo4/obj/Debug/net7.0/exo4.AssemblyInfo.cs
+/Users/laona/Desktop/mydigitalschool/M2/exo-natif/exo4/obj/Debug/net7.0/exo4.csproj.CoreCompileInputs.cache
+/Users/laona/Desktop/mydigitalschool/M2/exo-natif/exo4/obj/Debug/net7.0/exo4.dll
+/Users/laona/Desktop/mydigitalschool/M2/exo-natif/exo4/obj/Debug/net7.0/refint/exo4.dll
+/Users/laona/Desktop/mydigitalschool/M2/exo-natif/exo4/obj/Debug/net7.0/exo4.pdb
+/Users/laona/Desktop/mydigitalschool/M2/exo-natif/exo4/obj/Debug/net7.0/exo4.genruntimeconfig.cache
+/Users/laona/Desktop/mydigitalschool/M2/exo-natif/exo4/obj/Debug/net7.0/ref/exo4.dll
